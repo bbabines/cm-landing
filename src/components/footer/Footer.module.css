@@ -1,30 +1,14 @@
 .container {
 	background-color: coral;
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
+	padding: 0.5em;
+
+	text-align: center;
 }
 
-.versionContainer {
+.nameContainer {
 	padding-top: 1em;
 }
 
-.version {
+.name {
 	font-weight: 500;
-}
-
-.version:hover {
-	border-bottom: 2px solid black;
-	cursor: pointer;
-}
-
-.iconContainer {
-	margin: 0 1em;
-	height: 100%;
-}
-
-.icons {
-	height: 3em;
-	width: 1.5em;
-	margin: 0 1em;
 }
