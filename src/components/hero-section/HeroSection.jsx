@@ -8,7 +8,6 @@ const HeroSection = () => {
 				<p>Tag line: The platform that enables...</p>
 				<p>More Info</p>
 			</div>
-
 			<div className={styles.heroImageContainer}>
 				<p>A black and white image</p>
 			</div>
