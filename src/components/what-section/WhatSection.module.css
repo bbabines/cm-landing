@@ -5,14 +5,10 @@
 	border: 1px solid black;
 }
 
-.heroInfoContainer {
+.descriptionContainer {
 	border: 1px solid red;
 }
 
-.heroImageContainer {
-	border: 1px solid orange;
-}
-
-.heroTitle {
+.skillsTitle {
 	text-align: center;
 }
