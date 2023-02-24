@@ -4,7 +4,7 @@ const Footer = () => {
 	return (
 		<div className={styles.container}>
 			<div className={styles.nameContainer}>
-				<p className={styles.name}>Cohering Minds</p>
+				<p className={styles.name}>Cohering Minds Logo/Discord/Social Media</p>
 			</div>
 		</div>
 	);

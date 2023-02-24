@@ -9,12 +9,13 @@ const Navbar = () => {
 			<div className={styles.navContainer}>
 				<div className={styles.navLinksContainer}>
 					{/* <SiMinds className={styles.logo} /> */}
+					<p className={styles.logo}>CM</p>
 					<a className={styles.navLinks}>Home</a>
 					<a className={styles.navLinks}>What?</a>
 					<a className={styles.navLinks}>Why?</a>
 					<a className={styles.navLinks}>How?</a>
-					<a className={styles.navLinks}>Contact</a>
-					<a className={styles.navLinks}>Learn More</a>
+					{/* <a className={styles.navLinks}>Contact</a> */}
+					{/* <a className={styles.navLinks}>Learn More</a> */}
 				</div>
 			</div>
 		</div>

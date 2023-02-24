@@ -1,0 +1,26 @@
+.container {
+	color: white;
+	background-color: #18181b;
+	padding: 0.5em;
+
+	/* border: 1px solid orange; */
+}
+
+.detailsContainer {
+	border: 1px solid red;
+}
+
+.projectTitle {
+	text-align: center;
+}
+
+.whyDetails {
+	background: repeating-linear-gradient(
+		to bottom right,
+		#6ee4eb 0%,
+		#8aedcc 85%,
+		#9ef2b4 15%
+	);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}

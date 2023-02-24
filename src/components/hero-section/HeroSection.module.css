@@ -1,8 +1,18 @@
 .container {
-	background-color: white;
+	color: white;
+	background-color: #18181b;
 	padding: 0.5em;
 
 	border: 1px solid black;
+}
+
+.heroContainer {
+	margin: 2em auto;
+
+	display: flex;
+	/* flex-direction: column; */
+	justify-content: center;
+	align-items: center;
 }
 
 .heroInfoContainer {
@@ -10,9 +20,30 @@
 }
 
 .heroImageContainer {
-	border: 1px solid orange;
+	/* border: 1px solid orange; */
 }
 
 .heroTitle {
 	text-align: center;
+}
+
+.webImage {
+	width: 100%;
+	object-fit: cover;
+	max-width: 400px;
+	border-radius: 50px;
+}
+
+@media (min-width: 600px) {
+	.heroContainer {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin: 3em auto;
+	}
+
+	.heroInfoContainer,
+	.heroImageContainer {
+		margin: 0 auto;
+	}
 }
