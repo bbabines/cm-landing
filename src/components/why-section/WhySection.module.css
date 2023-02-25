@@ -7,7 +7,7 @@
 }
 
 .detailsContainer {
-	border: 1px solid red;
+	/* border: 1px solid red; */
 }
 
 .projectTitle {
@@ -15,12 +15,12 @@
 }
 
 .whyDetails {
-	background: repeating-linear-gradient(
+	/* background: repeating-linear-gradient(
 		to bottom right,
 		#6ee4eb 0%,
 		#8aedcc 85%,
 		#9ef2b4 15%
 	);
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+	-webkit-text-fill-color: transparent; */
 }

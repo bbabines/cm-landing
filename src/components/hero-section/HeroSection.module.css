@@ -16,7 +16,7 @@
 }
 
 .heroInfoContainer {
-	border: 1px solid red;
+	/* border: 1px solid red; */
 }
 
 .heroImageContainer {
@@ -25,6 +25,17 @@
 
 .heroTitle {
 	text-align: center;
+}
+
+.intro {
+	background: repeating-linear-gradient(
+		to bottom right,
+		#6ee4eb 0%,
+		#8aedcc 85%,
+		#9ef2b4 15%
+	);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
 .webImage {
