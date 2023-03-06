@@ -6,11 +6,8 @@ const HowSection = () => {
 			<h2 className={styles.aboutTitle}>How?</h2>
 			<div className={styles.infoContainer}>
 				<p>
-					More info about how to achieve decentralized collective intelligence
-				</p>
-				<p>
-					Perhaps add the values we are starting from that will lead us to an
-					MVP and/or a timeline.
+					Share your insights, connect with others in digital campfires, rank
+					order the best aha moments and work together to make them happen.
 				</p>
 			</div>
 		</div>

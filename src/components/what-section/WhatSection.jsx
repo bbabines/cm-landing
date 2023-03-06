@@ -5,16 +5,27 @@ const WhatSection = () => {
 		<div className={styles.container}>
 			<h2 className={styles.skillsTitle}>What?</h2>
 			<div className={styles.descriptionContainer}>
+				<p>You ideate, enter and rank your insights and learnings.</p>
 				<p>
-					1. Effectively harness collective intelligence while combating
-					barriers to CI. (Add in action and repeating portion so its clear.
-					Ratchet so never going backwards.)
+					Great, now offer them to the world As others see your learnings you
+					look at and interact with other's ideas Interact with chat and
+					deliberation tools. Help edit insights and learnings.
 				</p>
-				<p>2. Distill knowledge into different tiers.</p>
+				<p>Provide feedback by ranking your world favorites</p>
 				<p>
-					3. Help groups start looking for group (LFG) and looking for more
-					(LFM)), governance (FL) / coherence (Prosocial), and scale (cellular
-					model).
+					When ready, we organize "campfires" where small groups can share their
+					ideas more intimately, understand, feel understood and see different
+					points of view.
+				</p>
+				<p>
+					Cohering minds shows all the interactions you've made, how your
+					insights rank and how the worlds' ranking of insights is changing As
+					you meet more people, consider forming an org to tackle learnings you
+					cohere around.
+				</p>
+				<p>
+					Cohering minds offers a foundational and operational platform to build
+					from, to help you succeed.
 				</p>
 			</div>
 		</div>

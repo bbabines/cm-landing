@@ -12,9 +12,8 @@ const HeroSection = () => {
 						intelligently than ever before!
 					</h4>
 					<p>
-						Every individual, organization, or group could thrive more
-						successfully if it tapped into a bigger mind drawing on the brain
-						power of other people and machines.
+						Harnessing the science of collective intelligence, tapping into a
+						bigger cohering mind.
 					</p>
 					<Button variant="secondary">More Info</Button>
 				</div>
